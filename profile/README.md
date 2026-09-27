@@ -2,7 +2,7 @@
 
 <img src="banner.jpg" alt="amandoti.win" width="100%">
 
-## amandoti.win
+## [amandoti.win](https://amandoti.win)
 
 </div>
 
