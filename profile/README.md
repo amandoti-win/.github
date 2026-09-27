@@ -1,0 +1,14 @@
+<div align="center">
+
+<img src="loren.svg" width="96" alt="Loren">
+
+## amandoti.win
+
+</div>
+
+### [Loren](https://github.com/amandoti-win/loren)
+
+Instant screenshot capture with shareable links on your own domain. A fork of Spectacle for KDE Plasma.
+
+[![Download](https://img.shields.io/badge/Download-.deb-7a1a34?style=for-the-badge)](https://github.com/amandoti-win/loren/releases/latest)
+[![Sponsor](https://img.shields.io/badge/Sponsor-psalm2517-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/psalm2517)
