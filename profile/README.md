@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="loren.svg" width="96" alt="Loren">
+<img src="banner.jpg" alt="amandoti.win" width="100%">
 
 ## amandoti.win
 
 </div>
 
-### [Loren](https://github.com/amandoti-win/loren)
+### <img src="loren.svg" height="30" align="absmiddle"> [Loren](https://github.com/amandoti-win/loren)
 
 Instant screenshot capture with shareable links on your own domain. A fork of Spectacle for KDE Plasma.
 
